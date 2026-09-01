@@ -1,6 +1,3 @@
-// swea14510. 나무 높이
-
-
 import java.io.*;
 import java.util.*;
 
