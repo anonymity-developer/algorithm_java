@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class swea14510_나무높이 {
+public class swea14510_d2_나무높이 {
 
     public static void main(String[] args) throws Exception {
 
