@@ -1,11 +1,10 @@
 // swea14510. 나무 높이
 
-package swea;
 
 import java.io.*;
 import java.util.*;
 
-public class p14510 {
+public class swea14510_나무높이 {
 
     public static void main(String[] args) throws Exception {
 
