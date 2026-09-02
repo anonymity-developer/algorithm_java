@@ -1,9 +1,6 @@
 import java.io.*;
 import java.util.*;
 
-public class swea_base{
-}
-
 class Soltion {
 
     public static void main(String[] args) throws Exception {
@@ -24,4 +21,7 @@ class Soltion {
         }
         System.out.print(sb);
     }
+}
+
+public class swea_base{
 }
